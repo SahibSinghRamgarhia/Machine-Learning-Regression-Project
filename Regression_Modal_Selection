@@ -1,0 +1,16 @@
+# ------------------------------------------- REGRESSION MODEL SELECTION -------------------------------------------
+
+In this folder, we are going to check the performance of all the regression model on the given dataset "Data.csv".
+
+We have made templates of all the regression models with the help of which we will check the performance of all the
+regression models by implementing them on dataset one by one.
+
+There is a metrics module in sklearn library from which we will use r2_score class.
+
+r2_score (pronounced as r_square_score) is a method used to compare the performance of various regression models.
+~ Higher the value of r2_score better is the regression model.
+
+CONCLUSION :-
+----------
+For the given dataset in this folder,
+The 'Random Forest Regression Model' is the best fit among all other regression models.
